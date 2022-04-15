@@ -9,7 +9,7 @@ Copy the next code whitin snippet in your PostgreSQL.
 ```sql
 CREATE EXTENSION postgis;
 ```
-## Necessary Python Libraries
+### Necessary Python Libraries
 ```python
 pip install dotenv
 pip install psycopg2
